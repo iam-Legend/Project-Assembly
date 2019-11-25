@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<PakScriptConfig>
+	<ModName>Test1234567890</ModName>
+	<ModId>12345678abcdef</ModId>
+	<Version>1.0.0</Version>
+	<SMLVersion>v1.0.2</SMLVersion>
+	<GameDir></GameDir>
+	<UnrealEngineDir></UnrealEngineDir>
+	
+	<CookUnrealProject>true</CookUnrealProject>
+	<StartGame>true</StartGame>
+	<IncludeDLL>true</IncludeDLL>
+
+</PakScriptConfig>

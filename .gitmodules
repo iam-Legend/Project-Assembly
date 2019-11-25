@@ -1,3 +1,4 @@
 [submodule "ModLoader/SML"]
 	path = ModLoader/SML
 	url = https://github.com/satisfactorymodding/SatisfactoryModLoader.git
+	branch = master
