@@ -19,4 +19,4 @@ Currently a WIP by iamLegend and Mrhid6
 ## How To Pak mod
 * run `Add-ModToGame.ps1` to create config file **PAK.config.xml**
 * Edit **PAK.config.xml** 
-* Mod Will create zip in `ZipDir`
+* PowerShell script Will create zip in `ZipDir`
