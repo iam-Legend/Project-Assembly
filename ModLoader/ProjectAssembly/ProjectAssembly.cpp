@@ -51,11 +51,11 @@ using namespace SML::Objects;
 bool SML::debugOutput = false;
 
 // Config
-json config = SML::Utility::JsonConfig::load(MOD_NAME, {
-	{
-		
-	}
-});
+//json config = SML::Utility::JsonConfig::load(MOD_NAME, {
+//	{
+//		
+//	}
+// });
 
 // Global variables required by the mod
 AFGPlayerController* player;
